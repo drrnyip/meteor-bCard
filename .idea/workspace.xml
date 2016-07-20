@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91d1cd0b-1494-41c7-9a0a-a3d2875e123e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_npm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/newForm/newForm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/layout/layout.html" afterPath="$PROJECT_DIR$/client/layout/layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/newForm/newForm.html" afterPath="$PROJECT_DIR$/client/newForm/newForm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/newForm/newForm.js" afterPath="$PROJECT_DIR$/client/newForm/newForm.js" />
     </list>
     <ignored path="meteor-bCard.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,8 +61,8 @@
       <file leaf-file-name="newForm.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/newForm/newForm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="462">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -76,7 +73,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
               <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-              <folding />
+              <folding>
+                <marker date="1469052651025" expanded="true" signature="24:479" ph="..." />
+                <marker date="1469052651025" expanded="true" signature="33:405" ph="..." />
+                <marker date="1469052651025" expanded="true" signature="64:396" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,7 +85,7 @@
       <file leaf-file-name="bCard.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/bCard/bCard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="320">
               <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
@@ -227,6 +228,10 @@
     <property name="HbShouldOpenHtmlAsHb" value="enabled" />
     <property name="js.meteor.project" value="true" />
     <property name="js.meteor.library.was.enabled" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -248,12 +253,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469050658282</updated>
-      <workItem from="1469050665927" duration="1852000" />
+      <workItem from="1469050665927" duration="2186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1852000" />
+    <option name="totallyTimeSpent" value="2186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="0" width="1924" height="1038" extended-state="0" />
@@ -319,7 +324,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/bCard/bCard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="320">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
@@ -329,14 +334,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-          <folding />
+          <folding>
+            <marker date="1469052651025" expanded="true" signature="24:479" ph="..." />
+            <marker date="1469052651025" expanded="true" signature="33:405" ph="..." />
+            <marker date="1469052651025" expanded="true" signature="64:396" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/newForm/newForm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="462">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>

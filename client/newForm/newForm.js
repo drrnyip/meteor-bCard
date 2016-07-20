@@ -1,12 +1,12 @@
 Template.newForm.events({
     'submit form': function(event, template) {
         event.preventDefault();
-        const target = event.target;
-        const firstName = target.firstName.value;
-        const lastName = target.lastName.value;
-        const quote = target.quote.value;
-        const gender = target.gender.value;
-        const githubLink = target.githubLink.value;
+        let target = event.target;
+        let firstName = template.find("#firstName").value;
+        let lastName = template.find("#lastName").value;
+        let quote = template.find("#quote").value;
+        let gender = template.find("#gender").value;
+        let githubLink = template.find("#githubLink").value;
 
         console.log(firstName);
     }
